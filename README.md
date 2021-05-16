@@ -1,2 +1,2 @@
 # hello_world
-my first GitHub pages repo
+My first GitHub pages repo
